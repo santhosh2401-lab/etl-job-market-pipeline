@@ -1,0 +1,100 @@
+10:19:53 | INFO    | ============================================================
+10:19:53 | INFO    | ETL PIPELINE STARTED
+10:19:53 | INFO    | Timestamp: 2026-04-22 10:19:53
+10:19:53 | INFO    | ============================================================
+10:19:53 | INFO    | 
+10:19:53 | INFO    | STEP 1: EXTRACT
+10:19:53 | INFO    | ----------------------------------------
+10:19:53 | INFO    | Extracting data from /content/etl-job-market-pipeline/data/raw/job_postings_raw.csv
+10:19:53 | INFO    | Extracted 515 rows and 10 columns
+10:19:53 | INFO    | Columns found: ['job_id', 'title', 'company', 'location', 'salary', 'experience_level', 'employment_type', 'skills_required', 'date_posted', 'description']
+10:19:53 | INFO    | Null counts per column:
+job_id               27
+title                 0
+company              42
+location             83
+salary              128
+experience_level     69
+employment_type      92
+skills_required     160
+date_posted         132
+description          61
+dtype: int64
+10:19:53 | INFO    | 
+10:19:53 | INFO    | STEP 2: VALIDATE RAW DATA
+10:19:53 | INFO    | ----------------------------------------
+10:19:53 | INFO    | ==================================================
+10:19:53 | INFO    | VALIDATION: Raw Data Quality Checks
+10:19:53 | INFO    | ==================================================
+10:19:53 | INFO    | Total rows: 515
+10:19:53 | INFO    | Total columns: 10
+10:19:53 | INFO    | All expected columns present
+10:19:53 | INFO    | Duplicate rows: 15 (2.9%)
+10:19:53 | INFO    | Null percentages:
+10:19:53 | INFO    |   job_id: 5.2%
+10:19:53 | INFO    |   title: 0.0%
+10:19:53 | INFO    |   company: 8.2%
+10:19:53 | INFO    |   location: 16.1%
+10:19:53 | INFO    |   salary: 24.9%
+10:19:53 | INFO    |   experience_level: 13.4%
+10:19:53 | INFO    |   employment_type: 17.9%
+10:19:53 | INFO    |   skills_required: 31.1%
+10:19:53 | INFO    |   date_posted: 25.6%
+10:19:53 | INFO    |   description: 11.8%
+10:19:53 | INFO    | All raw data quality checks passed
+10:19:53 | INFO    | 
+10:19:53 | INFO    | STEP 3: TRANSFORM
+10:19:53 | INFO    | ----------------------------------------
+10:19:53 | INFO    | Starting transformation on 515 rows
+10:19:53 | INFO    | Removed 15 duplicate rows
+10:19:53 | INFO    | Removed 26 rows with missing job_id
+10:19:53 | INFO    | Standardising job titles...
+10:19:53 | INFO    | Cleaning company names...
+10:19:53 | INFO    | Standardising locations...
+10:19:53 | INFO    | Parsing salary values...
+10:19:53 | INFO    | Standardising experience levels...
+10:19:53 | INFO    | Standardising employment types...
+10:19:53 | INFO    | Parsing skills...
+10:19:53 | INFO    | Transformation complete. Output: 474 rows, 10 columns
+10:19:53 | INFO    | Null counts after transformation:
+job_id                0
+title                 0
+company              73
+location             75
+salary              333
+experience_level      0
+employment_type       0
+skills              148
+skill_count           0
+date_posted         120
+dtype: int64
+10:19:53 | INFO    | 
+10:19:53 | INFO    | STEP 4: VALIDATE CLEAN DATA
+10:19:53 | INFO    | ----------------------------------------
+10:19:53 | INFO    | ==================================================
+10:19:53 | INFO    | VALIDATION: Clean Data Quality Checks
+10:19:53 | INFO    | ==================================================
+10:19:53 | INFO    | No duplicate job_ids found
+10:19:53 | INFO    | Sample cleaned titles: ['Platform Engineer', 'Infrastructure Engineer', 'Site Reliability Engineer', 'Cloud Engineer', 'Data Analyst']
+10:19:53 | INFO    | Salary range: 26090 to 119025 (avg: 65510)
+10:19:53 | INFO    | Experience levels OK: {'Junior', 'Lead', 'Mid', 'Senior', 'Not Specified'}
+10:19:53 | INFO    | Final row count: 474
+10:19:53 | INFO    | All clean data quality checks passed
+10:19:53 | INFO    | 
+10:19:53 | INFO    | STEP 5: LOAD
+10:19:53 | INFO    | ----------------------------------------
+10:19:53 | INFO    | Loading 474 rows into /content/etl-job-market-pipeline/output/job_market.db (table: job_postings)
+10:19:53 | INFO    | Verified: 474 rows loaded into job_postings
+10:19:53 | INFO    | Clean CSV saved to /content/etl-job-market-pipeline/output/job_postings_clean.csv
+10:19:53 | INFO    | 
+10:19:53 | INFO    | ============================================================
+10:19:53 | INFO    | ETL PIPELINE COMPLETE
+10:19:53 | INFO    | Raw rows extracted:    515
+10:19:53 | INFO    | Clean rows loaded:     474
+10:19:53 | INFO    | Rows removed:          41
+10:19:53 | INFO    | Raw data issues:       0
+10:19:53 | INFO    | Clean data issues:     0
+10:19:53 | INFO    | Database:              /content/etl-job-market-pipeline/output/job_market.db
+10:19:53 | INFO    | Clean CSV:             /content/etl-job-market-pipeline/output/job_postings_clean.csv
+10:19:53 | INFO    | Log file:              output/pipeline.log
+10:19:53 | INFO    | ============================================================

@@ -1,0 +1,475 @@
+job_id,title,company,location,salary,experience_level,employment_type,skills,skill_count,date_posted
+JOB-0310,Platform Engineer,,"Galway, Ireland",61379,Not Specified,Contract,"Kafka, Sql, Redis, Terraform, Spark, Gcp",6,2025-08-18
+JOB-0499,Infrastructure Engineer,SAP,"Dublin, Ireland",74222,Senior,Contract,"React, Pandas, Etl, Linux, Git, Terraform, Spark, Airflow",8,yesterday
+JOB-0087,Site Reliability Engineer,Amazon,"Dublin, Ireland (Hybrid)",,Lead,Full-time,"Spark, Airflow, Gcp, Ci/Cd, Rust, Scala, Bash, Azure",8,08-08-2025
+JOB-0289,Cloud Engineer,Workday,"Dublin, Ireland",63847,Mid,Full-time,,0,05/09/2025
+JOB-0265,Data Analyst,KPMG,,62610,Mid,Full-time,"Azure, Python",2,yesterday
+JOB-0407,Systems Engineer,Workday,Remote,55000,Mid,Full-time,,0,yesterday
+JOB-0350,Backend Engineer,Workday,Remote,67000,Senior,Full-time,,0,01/05/2025
+JOB-0121,Software Engineer,KPMG,"Dublin, Ireland",,Lead,Not Specified,,0,yesterday
+JOB-0277,Data Engineer,KPMG,,,Junior,Full-time,"React, Redis, Linux, Pandas, Kafka, Spark",6,07-28-2025
+JOB-0329,Data Engineer,Fidelity,"Dublin, Ireland",,Senior,Contract,"Airflow, Git",2,
+JOB-0050,Devops Engineer,Bank of Ireland,Remote,63000,Senior,Not Specified,"Rust, Javascript, Java, React",4,08-03-2025
+JOB-0262,Senior Data Engineer,Bank of Ireland,"Berlin, Germany",,Not Specified,Full-time,,0,yesterday
+JOB-0212,Systems Engineer,Microsoft,Remote,,Not Specified,Contract,,0,
+JOB-0094,Junior Data Engineer,Deloitte,"Dublin, Ireland",,Junior,Part-time,"Spark, Bash, Rust, React, Etl",5,yesterday
+JOB-0430,Data Analyst,Amazon,"Dublin, Ireland",,Junior,Full-time,"Jenkins, Rust, Git, Azure, Linux, Aws, Javascript, Ci/Cd",8,
+JOB-0456,Devops Engineer,Dell,"Galway, Ireland",,Junior,Full-time,,0,
+JOB-0216,Data Engineer,Stripe,,53000,Junior,Part-time,"Git, Ci/Cd",2,2025-06-22
+JOB-0168,Infrastructure Engineer,VMware,Remote,,Mid,Full-time,"Docker, Kubernetes",2,2025
+JOB-0364,Junior Data Engineer,Workday,"Cork, Ireland",,Not Specified,Permanent,"Etl, Linux, Kafka",3,
+JOB-0041,Infrastructure Engineer,AIB,,,Mid,Full-time,"Bash, Numpy, Pandas, Sql, Kubernetes, Scala, Spark, Mysql",8,04-09-2025
+JOB-0427,Platform Engineer,Bank of Ireland,"Dublin, Ireland",106048,Junior,Permanent,"Javascript, Terraform, Python, Mongodb, Spark, Sql, Etl",7,08/10/2025
+JOB-0361,Senior Data Engineer,JPMorgan,,,Mid,Permanent,"Redis, Mongodb, Etl, Spark, React, Java, Docker, Mysql",8,11-16-2025
+JOB-0030,Infrastructure Engineer,AIB,"Galway, Ireland",,Senior,Full-time,"Pandas, Redis, Spark, Aws, Scala, Mongodb",6,
+JOB-0098,Database Administrator,PwC,"Dublin, Ireland",,Senior,Full-time,"Python, Etl, Terraform",3,yesterday
+JOB-0006,Data Analyst,Workday,"Berlin, Germany",,Senior,Full-time,"Mysql, Numpy, Scala, Git, Bash",5,
+JOB-0283,Ml Engineer,,"Galway, Ireland",,Junior,Part-time,"Git, Gcp, Mysql, Typescript",4,03-19-2025
+JOB-0147,Junior Data Engineer,Infosys,"Berlin, Germany",,Junior,Contract,,0,2025-03-21
+JOB-0071,Backend Engineer,Oracle,,,Mid,Contract,"Etl, Jenkins, Numpy, Mysql, Linux, Ci/Cd, Rust",7,2025
+JOB-0068,Systems Engineer,Bank of Ireland,Remote,,Junior,Contract,"Rust, Linux, Airflow, Pandas",4,02/11/2025
+JOB-0238,Database Administrator,Bank of Ireland,"Dublin, Ireland",,Junior,Full-time,,0,
+JOB-0167,Database Administrator,KPMG,"Dublin, Ireland",,Not Specified,Full-time,"Ci/Cd, Javascript, Terraform, Git, Etl",5,yesterday
+JOB-0409,Senior Data Engineer,,"Dublin, Ireland",,Not Specified,Full-time,,0,
+JOB-0367,Full Stack Developer,Salesforce,Remote,,Not Specified,Full-time,"Airflow, Go, Redis, Kafka, Bash",5,
+JOB-0457,Cloud Engineer,AIB,"Galway, Ireland",,Junior,Full-time,"Numpy, Mongodb, Kafka, Azure",4,2025-02-16
+JOB-0415,Data Analyst,Citi,"Dublin, Ireland",,Not Specified,Permanent,,0,
+JOB-0102,Data Engineer,,"Cork, Ireland",,Not Specified,Full-time,,0,2025-01-18
+JOB-0219,Devops Engineer,Infosys,"London, UK",,Senior,Contract,"Javascript, Terraform, Aws, Bash, Docker, Java, Go",7,2025
+JOB-0236,Systems Engineer,AIB,,,Lead,Not Specified,"Etl, Kubernetes, Python, Kafka, Airflow",5,2 days ago
+JOB-0287,Data Engineer,Stripe,"Galway, Ireland",70843,Senior,Full-time,"Linux, Git, Kubernetes, Sql, Python, Mysql, Aws",7,27/04/2025
+JOB-0115,Data Analyst,Google,"Cork, Ireland",,Not Specified,Full-time,"Azure, Go, Scala, Sql, Jenkins, Kubernetes, Kafka, Postgresql",8,2025-05-02
+JOB-0179,Full Stack Developer,Accenture,"London, UK",,Senior,Not Specified,"Git, Mysql, Go, Kafka, Gcp, Pandas",6,20/02/2025
+JOB-0351,Site Reliability Engineer,PwC,"Dublin, Ireland",,Junior,Full-time,"Mongodb, Mysql",2,2025-06-24
+JOB-0278,Devops Engineer,Dell,Remote,77990,Senior,Contract,,0,09-07-2025
+JOB-0334,Ml Engineer,Oracle,"Galway, Ireland",,Lead,Full-time,"Kubernetes, Redis, Javascript, Etl, Numpy",5,2025-11-18
+JOB-0154,Ml Engineer,Fidelity,"Dublin, Ireland",,Junior,Part-time,"Postgresql, Typescript, React",3,
+JOB-0246,Junior Data Engineer,,"Galway, Ireland",,Not Specified,Not Specified,,0,yesterday
+JOB-0033,Data Analyst,Workday,,,Mid,Part-time,"Scala, Spark, Pandas, Etl, Bash, Terraform",6,09/05/2025
+JOB-0475,Junior Data Engineer,Bank of Ireland,,50000,Mid,Full-time,,0,2025-03-01
+JOB-0301,Database Administrator,SAP,"Cork, Ireland",,Not Specified,Freelance,"Docker, Ci/Cd, Terraform, Jenkins, Go",5,2025
+JOB-0189,Systems Engineer,PwC,,,Mid,Part-time,"Ci/Cd, Jenkins, Git, Airflow, Terraform, Linux, Numpy",7,
+JOB-0256,Devops Engineer,Microsoft,Remote,,Mid,Full-time,"Jenkins, Etl, Redis, Kubernetes, Ci/Cd",5,
+JOB-0425,Database Administrator,,"London, UK",,Lead,Freelance,,0,2025-10-26
+JOB-0362,Data Engineer,JPMorgan,"London, UK",89713,Mid,Not Specified,"Go, Git, Spark, Redis",4,28/09/2025
+JOB-0082,Senior Data Engineer,,Remote,74000,Not Specified,Part-time,,0,
+JOB-0276,Junior Data Engineer,Oracle,,,Junior,Permanent,"Mysql, Ci/Cd, Javascript, Airflow, Terraform, Java, Mongodb, Redis",8,2025-02-07
+JOB-0069,Database Administrator,Stripe,"Dublin, Ireland (Hybrid)",,Not Specified,Contract,"Mongodb, Kafka, Redis, Airflow",4,
+JOB-0010,Data Analyst,,"Dublin, Ireland",73353,Lead,Part-time,"Azure, Redis",2,14/08/2025
+JOB-0479,Ml Engineer,Oracle,,109392,Mid,Not Specified,"Typescript, Azure, Linux",3,2 days ago
+JOB-0316,Senior Data Engineer,Fidelity,"Dublin, Ireland",,Senior,Contract,,0,2025-08-23
+JOB-0416,Senior Data Engineer,Oracle,"Dublin, Ireland",,Mid,Freelance,,0,yesterday
+JOB-0088,Platform Engineer,JPMorgan,,,Junior,Not Specified,"Java, Go, Linux, Python, Aws",5,2025-09-15
+JOB-0173,Site Reliability Engineer,Microsoft,Remote,,Junior,Contract,"Etl, React, Bash, Ci/Cd",4,2025
+JOB-0358,Devops Engineer,Deloitte,Remote,35000,Junior,Contract,"Pandas, Python, Azure, Docker, Go",5,2 days ago
+JOB-0020,Devops Engineer,Microsoft,Remote,,Mid,Part-time,"Redis, Typescript, Azure, Etl",4,
+JOB-0118,Systems Engineer,Dell,,50221,Senior,Full-time,"Python, Linux",2,03-03-2025
+JOB-0186,Ml Engineer,AIB,,,Mid,Full-time,"Kubernetes, Mongodb, Redis, Numpy, Terraform, Spark",6,2 days ago
+JOB-0366,Software Engineer,,"Dublin, Ireland",,Mid,Full-time,,0,07-25-2025
+JOB-0481,Cloud Engineer,Amazon,"Dublin, Ireland",,Junior,Part-time,"Sql, Kubernetes, Typescript",3,09/05/2025
+JOB-0027,Infrastructure Engineer,PwC,Remote,77994,Mid,Permanent,"Postgresql, Redis, Python, Aws, Mongodb",5,yesterday
+JOB-0414,Full Stack Developer,,"Dublin, Ireland",,Junior,Part-time,,0,2025-08-13
+JOB-0448,Full Stack Developer,SAP,"Dublin, Ireland",62534,Junior,Full-time,,0,2025-07-07
+JOB-0380,Cloud Engineer,,Remote,,Junior,Full-time,"Rust, Bash, Numpy, Sql, Python",5,2 days ago
+JOB-0093,Devops Engineer,Infosys,"London, UK",,Not Specified,Contract,"Numpy, Rust, Bash",3,
+JOB-0062,Site Reliability Engineer,PwC,"Dublin, Ireland",,Junior,Freelance,"Postgresql, Java, Scala, Redis, Linux, Sql, Jenkins",7,05-07-2025
+JOB-0354,Data Engineer,Dell,"Dublin, Ireland",,Lead,Full-time,"Pandas, Aws, Rust, React, Java",5,yesterday
+JOB-0225,Site Reliability Engineer,Oracle,"Galway, Ireland",,Senior,Full-time,"Mongodb, Rust, Bash, Docker, Ci/Cd, Linux",6,17/08/2025
+JOB-0293,Full Stack Developer,Meta,"London, UK",,Junior,Full-time,"Typescript, Rust, Bash, Gcp, Etl, Postgresql, Jenkins",7,2 days ago
+JOB-0490,Devops Engineer,Deloitte,"Cork, Ireland",37224,Not Specified,Part-time,,0,
+JOB-0200,Senior Data Engineer,Bank of Ireland,"Dublin, Ireland",56759,Senior,Not Specified,,0,
+JOB-0084,Devops Engineer,KPMG,,,Lead,Contract,,0,03-10-2025
+JOB-0163,Data Engineer,VMware,,,Mid,Not Specified,,0,yesterday
+JOB-0008,Software Engineer,Bank of Ireland,Remote,,Not Specified,Not Specified,"Ci/Cd, Gcp, Go, Redis, Java, Bash",6,2025
+JOB-0209,Data Analyst,Oracle,"Dublin, Ireland",,Lead,Permanent,"Typescript, Java, Docker, Jenkins, Javascript",5,
+JOB-0347,Junior Data Engineer,SAP,"London, UK",,Junior,Contract,"Rust, Terraform, Go, Numpy, Gcp",5,17/07/2025
+JOB-0368,Systems Engineer,Deloitte,"Cork, Ireland",,Mid,Not Specified,"Go, Linux, Aws",3,12-24-2025
+JOB-0039,Senior Data Engineer,SAP,,,Mid,Freelance,"Mysql, Git, Python, Aws",4,
+JOB-0309,Senior Data Engineer,,"Galway, Ireland",,Senior,Part-time,"Linux, Ci/Cd, Typescript, Sql",4,
+JOB-0193,Junior Data Engineer,HubSpot,"London, UK",,Junior,Contract,"Kubernetes, Linux, Numpy, Docker, Redis, Aws, Javascript",7,
+JOB-0379,It Support Engineer,Oracle,"Dublin, Ireland",,Senior,Full-time,"Rust, Go, Python",3,04-25-2025
+JOB-0131,Data Engineer,,"London, UK",,Lead,Part-time,"Numpy, Bash, Kubernetes, Pandas, Azure, Etl, Mongodb",7,02/08/2025
+JOB-0470,Devops Engineer,Stripe,"Dublin, Ireland",,Not Specified,Permanent,"Redis, Postgresql",2,
+JOB-0388,Data Engineer,,,,Junior,Contract,,0,02/01/2025
+JOB-0284,Ml Engineer,Meta,"London, UK",85000,Mid,Full-time,"Rust, Javascript, Gcp, Go, Java, Ci/Cd",6,12-21-2025
+JOB-0223,Platform Engineer,Salesforce,,,Not Specified,Part-time,"Bash, Pandas, Typescript",3,2025-04-05
+JOB-0188,Senior Data Engineer,AIB,"Galway, Ireland",,Junior,Full-time,"Numpy, Redis, Postgresql, Scala, Gcp",5,2 days ago
+JOB-0406,Senior Data Engineer,JPMorgan,"Dublin, Ireland (Hybrid)",,Not Specified,Permanent,,0,05-13-2025
+JOB-0487,Cloud Engineer,Bank of Ireland,"London, UK",79948,Junior,Permanent,,0,2025
+JOB-0210,Junior Data Engineer,JPMorgan,,,Senior,Full-time,"Javascript, Gcp, Mysql, Azure, Docker",5,02/09/2025
+JOB-0495,Cloud Engineer,Fidelity,"Dublin, Ireland (Hybrid)",,Junior,Not Specified,"Azure, Mysql, Airflow, Pandas, Kubernetes, Postgresql",6,2025-06-21
+JOB-0066,Infrastructure Engineer,Meta,"Dublin, Ireland",,Junior,Contract,,0,09/10/2025
+JOB-0224,Ml Engineer,Dell,,88782,Lead,Contract,"Azure, Kafka, Docker, Sql, Kubernetes",5,
+JOB-0355,Data Engineer,Stripe,"Dublin, Ireland (Hybrid)",,Lead,Part-time,,0,08-06-2025
+JOB-0288,Data Engineer,TCS,"Dublin, Ireland",,Senior,Permanent,,0,
+JOB-0323,Data Engineer,Amazon,"Berlin, Germany",,Not Specified,Not Specified,"Azure, Numpy, Scala, Gcp",4,10/09/2025
+JOB-0342,Junior Data Engineer,TCS,"Galway, Ireland",,Mid,Not Specified,,0,
+JOB-0018,Cloud Engineer,KPMG,,,Senior,Full-time,"Sql, Typescript, Java, Jenkins, Kubernetes, Numpy, Spark, Linux",8,
+JOB-0249,Data Engineer,Amazon,,,Junior,Contract,"Etl, Bash, Kubernetes",3,09-16-2025
+JOB-0012,Database Administrator,HubSpot,"Dublin, Ireland",,Not Specified,Full-time,,0,2 days ago
+JOB-0465,Data Engineer,Infosys,"Dublin, Ireland",92048,Junior,Contract,"Pandas, Airflow, Gcp",3,08/11/2025
+JOB-0169,Devops Engineer,Bank of Ireland,"Cork, Ireland",,Junior,Full-time,,0,2025
+JOB-0199,Data Engineer,Dell,,,Senior,Full-time,,0,
+JOB-0072,Cloud Engineer,Oracle,,,Senior,Permanent,"Gcp, Typescript, Git, Sql, Mongodb, Java",6,23/09/2025
+JOB-0206,Software Engineer,Infosys,,,Senior,Contract,"Git, Javascript, Etl, Rust, Postgresql, Bash, React, Docker",8,12/10/2025
+JOB-0384,Cloud Engineer,Fidelity,,,Not Specified,Full-time,,0,yesterday
+JOB-0060,Database Administrator,Accenture,Remote,,Senior,Freelance,,0,2025-11-13
+JOB-0299,Data Analyst,Infosys,"Dublin, Ireland",,Junior,Part-time,"Aws, Go",2,2025
+JOB-0108,Full Stack Developer,Meta,"Dublin, Ireland",59321,Lead,Not Specified,"Mongodb, Aws, Rust, Numpy",4,yesterday
+JOB-0133,Ml Engineer,Oracle,,,Junior,Not Specified,"Redis, Airflow, Java, Gcp, Postgresql, Mongodb, Git, Ci/Cd",8,
+JOB-0110,Data Engineer,TCS,,,Lead,Not Specified,"Azure, React, Etl, Java, Ci/Cd",5,2025
+JOB-0294,Software Engineer,PwC,"Dublin, Ireland",,Mid,Not Specified,"Docker, Javascript, Postgresql, Aws, Azure, React",6,2025
+JOB-0376,Systems Engineer,JPMorgan,Remote,,Senior,Not Specified,,0,2 days ago
+JOB-0092,Full Stack Developer,SAP,"Dublin, Ireland",70000,Junior,Full-time,"Redis, Jenkins, Sql, Postgresql, Kafka, Azure, Kubernetes, Python",8,yesterday
+JOB-0488,Software Engineer,,"Dublin, Ireland",,Mid,Not Specified,"Javascript, Scala, Etl, Mysql",4,yesterday
+JOB-0081,Data Engineer,TCS,"London, UK",,Junior,Freelance,"Airflow, Terraform, Mongodb, Git",4,yesterday
+JOB-0114,Systems Engineer,SAP,"Dublin, Ireland",,Mid,Full-time,,0,yesterday
+JOB-0135,Senior Data Engineer,Meta,Remote,,Mid,Contract,"Go, Mongodb, Linux",3,
+JOB-0491,Ml Engineer,,"Cork, Ireland",72000,Senior,Full-time,"Python, Mongodb, Postgresql, Azure, Javascript, Numpy, Mysql",7,10/05/2025
+JOB-0025,Devops Engineer,,"Dublin, Ireland (Hybrid)",87000,Senior,Not Specified,,0,2 days ago
+JOB-0159,Data Engineer,,"Dublin, Ireland",33000,Junior,Full-time,"Java, Go, Airflow, Spark, Bash",5,2025
+JOB-0385,Infrastructure Engineer,Google,"Dublin, Ireland (Hybrid)",34000,Mid,Full-time,,0,
+JOB-0047,Ml Engineer,Fidelity,"Berlin, Germany",,Mid,Permanent,"Jenkins, Java, Postgresql, Gcp, Rust, Numpy, Mongodb",7,08-10-2025
+JOB-0395,Junior Data Engineer,,"Cork, Ireland",,Lead,Not Specified,"Linux, Numpy, Jenkins",3,06/09/2025
+JOB-0119,Senior Data Engineer,Salesforce,"London, UK",,Junior,Contract,"Linux, Pandas",2,10-17-2025
+JOB-0077,Database Administrator,Amazon,,,Not Specified,Contract,"Aws, Kafka, Ci/Cd",3,
+JOB-0022,Backend Engineer,Accenture,Remote,,Not Specified,Permanent,"Jenkins, React, Kubernetes, Gcp",4,yesterday
+JOB-0443,Data Engineer,HubSpot,Remote,90000,Mid,Permanent,"Etl, Go, Linux, Postgresql, React, Java",6,
+JOB-0399,Devops Engineer,Workday,"Dublin, Ireland",50000,Mid,Contract,"Jenkins, Git, Mongodb, Aws, Spark",5,17/09/2025
+JOB-0408,Devops Engineer,Amazon,"Dublin, Ireland",,Junior,Contract,"Numpy, Python",2,
+JOB-0359,Data Engineer,VMware,"Dublin, Ireland",,Senior,Not Specified,"Java, Airflow",2,2 days ago
+JOB-0279,It Support Engineer,Oracle,"Dublin, Ireland (Hybrid)",45220,Not Specified,Full-time,"Mongodb, Python",2,03-03-2025
+JOB-0035,Backend Engineer,Deloitte,"Dublin, Ireland",,Lead,Full-time,"Numpy, Terraform, Docker, Sql, Git",5,2025-02-27
+JOB-0191,Systems Engineer,Meta,Remote,67831,Senior,Freelance,,0,
+JOB-0429,Data Analyst,Infosys,"Dublin, Ireland",,Mid,Contract,"Jenkins, Etl, Git, Redis",4,2 days ago
+JOB-0394,Data Engineer,HubSpot,"London, UK",40098,Lead,Full-time,"Kubernetes, Linux",2,2025
+JOB-0247,Ml Engineer,Accenture,Remote,79198,Junior,Not Specified,"Aws, Git, Ci/Cd",3,yesterday
+JOB-0083,It Support Engineer,,"Dublin, Ireland",,Senior,Contract,,0,2 days ago
+JOB-0145,Platform Engineer,,"Cork, Ireland",,Junior,Not Specified,"Linux, Terraform, Aws, Bash, Numpy, Python, Spark, Kubernetes",8,2 days ago
+JOB-0045,Data Analyst,Bank of Ireland,,,Senior,Contract,,0,yesterday
+JOB-0451,Data Engineer,,"Dublin, Ireland",51012,Senior,Full-time,"Java, Bash, React, Redis, Kafka",5,yesterday
+JOB-0153,Backend Engineer,Infosys,"Galway, Ireland",,Mid,Part-time,"Scala, Terraform, Airflow, Git, Docker, Python",6,2 days ago
+JOB-0213,Data Engineer,,"London, UK",,Not Specified,Part-time,"Spark, Bash, Java",3,07-24-2025
+JOB-0446,Data Engineer,AIB,"Dublin, Ireland (Hybrid)",,Junior,Not Specified,,0,2025
+JOB-0373,Junior Data Engineer,,"Dublin, Ireland (Hybrid)",,Junior,Contract,"Scala, Gcp",2,2025-06-10
+JOB-0103,Software Engineer,Oracle,Remote,,Senior,Full-time,"Linux, Pandas",2,
+JOB-0404,It Support Engineer,Amazon,"Galway, Ireland",,Mid,Full-time,,0,09-01-2025
+JOB-0099,Data Engineer,Bank of Ireland,"Dublin, Ireland",,Not Specified,Contract,"Numpy, Ci/Cd, Git",3,
+JOB-0164,Cloud Engineer,PwC,"Dublin, Ireland",37000,Mid,Permanent,"React, Kubernetes, Gcp",3,04-27-2025
+JOB-0064,Senior Data Engineer,Stripe,,52527,Mid,Full-time,"Typescript, Azure, Jenkins, Pandas, Postgresql",5,2025
+JOB-0195,Full Stack Developer,JPMorgan,"London, UK",,Junior,Full-time,,0,
+JOB-0122,Devops Engineer,TCS,"Galway, Ireland",,Junior,Permanent,,0,11-16-2025
+JOB-0315,Site Reliability Engineer,Microsoft,"Galway, Ireland",,Not Specified,Part-time,"Java, Bash, Etl, Numpy",4,2 days ago
+JOB-0307,Devops Engineer,VMware,"Dublin, Ireland",78746,Junior,Permanent,"Aws, Airflow, Go, Docker, Linux",5,2 days ago
+JOB-0218,Devops Engineer,,Remote,,Senior,Contract,"Jenkins, Ci/Cd, Terraform, Go, Numpy, Redis, React, Postgresql",8,2025
+JOB-0021,Senior Data Engineer,Bank of Ireland,"Dublin, Ireland",,Junior,Not Specified,,0,2025
+JOB-0150,Cloud Engineer,,"Dublin, Ireland",62748,Junior,Full-time,"Sql, Javascript",2,27/07/2025
+JOB-0455,Backend Engineer,VMware,Remote,,Lead,Full-time,,0,
+JOB-0037,Backend Engineer,Bank of Ireland,"Cork, Ireland",,Senior,Full-time,,0,2025
+JOB-0070,Full Stack Developer,Salesforce,Remote,59706,Senior,Full-time,"Gcp, Aws, Linux",3,
+JOB-0023,Systems Engineer,JPMorgan,Remote,,Mid,Freelance,"Jenkins, Docker, React, Kafka, Scala",5,2 days ago
+JOB-0357,Junior Data Engineer,Citi,"London, UK",,Senior,Full-time,"Kafka, Redis, Airflow, React, Linux, Aws, Gcp",7,2025-01-07
+JOB-0156,Data Analyst,Salesforce,"Galway, Ireland",,Junior,Permanent,"Typescript, Scala",2,23/11/2025
+JOB-0129,Platform Engineer,Salesforce,"Cork, Ireland",,Senior,Permanent,"Rust, Docker, Bash, Go, Java, Linux, Gcp",7,
+JOB-0230,Devops Engineer,TCS,"Dublin, Ireland",26090,Senior,Full-time,"Pandas, React, Linux, Mysql, Jenkins, Python, Bash, Spark",8,yesterday
+JOB-0378,Database Administrator,Amazon,"Dublin, Ireland",33561,Junior,Full-time,"Gcp, Pandas, Go, Terraform",4,2025
+JOB-0372,Data Engineer,,"Galway, Ireland",58000,Not Specified,Contract,,0,2025
+JOB-0065,Backend Engineer,,,83752,Mid,Not Specified,"Gcp, Git",2,2 days ago
+JOB-0013,Data Analyst,Infosys,"London, UK",38907,Senior,Full-time,"Jenkins, Postgresql, Mysql, Sql, Typescript, Aws",6,2025
+JOB-0311,Junior Data Engineer,Bank of Ireland,,,Mid,Contract,,0,2 days ago
+JOB-0170,Database Administrator,,Remote,,Not Specified,Full-time,,0,2025
+JOB-0320,Data Engineer,Accenture,"Dublin, Ireland",,Junior,Full-time,"Linux, Gcp, Kubernetes",3,2 days ago
+JOB-0285,Data Analyst,VMware,"Dublin, Ireland",65543,Mid,Not Specified,"Redis, Kafka, Airflow, Java, Git",5,2 days ago
+JOB-0341,Data Engineer,,"Dublin, Ireland",,Mid,Full-time,,0,
+JOB-0450,Site Reliability Engineer,Meta,"Galway, Ireland",53000,Senior,Permanent,"React, Git, Azure, Numpy, Redis, Javascript",6,2025
+JOB-0267,Data Engineer,Accenture,Remote,,Mid,Contract,"Go, Typescript, Bash, Terraform, Numpy",5,
+JOB-0014,Systems Engineer,AIB,"Berlin, Germany",,Not Specified,Full-time,"Postgresql, Azure, Aws, Bash, Kubernetes, Scala",6,06-10-2025
+JOB-0492,Data Analyst,KPMG,,73473,Not Specified,Not Specified,"Pandas, Airflow, Terraform, Mongodb, Numpy, Docker, Ci/Cd",7,2025-01-06
+JOB-0459,Junior Data Engineer,TCS,"Galway, Ireland",,Junior,Full-time,"Typescript, Jenkins, Linux, Kafka",4,2025
+JOB-0260,Site Reliability Engineer,,,,Junior,Full-time,,0,2025-03-06
+JOB-0313,It Support Engineer,,"Dublin, Ireland (Hybrid)",,Senior,Not Specified,,0,2 days ago
+JOB-0452,Data Engineer,TCS,"London, UK",,Mid,Permanent,"Etl, Python, Pandas, Java, Linux, React",6,10-05-2025
+JOB-0004,Data Engineer,,Remote,,Senior,Contract,"Docker, Bash, Etl, Jenkins, Rust, Numpy, Airflow",7,2025-11-23
+JOB-0274,It Support Engineer,Infosys,"London, UK",,Not Specified,Full-time,"Spark, Mysql, Postgresql, Gcp, Scala, Azure, Airflow, Kafka",8,2 days ago
+JOB-0437,Data Engineer,Amazon,,,Senior,Not Specified,"Mongodb, Kafka, Pandas, Linux, Postgresql",5,yesterday
+JOB-0017,Senior Data Engineer,Microsoft,"Dublin, Ireland",,Senior,Part-time,"Redis, Jenkins, Azure",3,2025
+JOB-0292,Infrastructure Engineer,Google,"Dublin, Ireland",,Junior,Full-time,"Gcp, Sql, Kubernetes",3,
+JOB-0485,It Support Engineer,Citi,"Berlin, Germany",,Junior,Not Specified,"Ci/Cd, Terraform, Azure, Docker, Numpy, Pandas",6,yesterday
+JOB-0403,Data Engineer,Bank of Ireland,,,Senior,Full-time,"Airflow, Aws, Bash",3,
+JOB-0042,Platform Engineer,SAP,"London, UK",104806,Not Specified,Not Specified,"Pandas, Aws, Jenkins, Javascript, Azure, Numpy",6,
+JOB-0281,Data Analyst,Dell,"Dublin, Ireland",,Not Specified,Freelance,,0,
+JOB-0434,Devops Engineer,,"Dublin, Ireland",,Junior,Part-time,"Numpy, Mongodb, Docker, Postgresql",4,2025
+JOB-0454,Data Engineer,Meta,Remote,,Lead,Contract,"Mongodb, Sql, Linux, Azure, Git",5,2025-05-12
+JOB-0075,Ml Engineer,Stripe,,,Not Specified,Not Specified,,0,19/07/2025
+JOB-0241,Full Stack Developer,Oracle,Remote,,Lead,Contract,"Kafka, Redis, Pandas, Go, Azure",5,06-22-2025
+JOB-0477,Data Engineer,HubSpot,,,Junior,Freelance,"Linux, Bash, Typescript, React, Javascript, Aws, Java, Azure",8,
+JOB-0464,Data Engineer,Google,"Dublin, Ireland",84000,Mid,Not Specified,"Ci/Cd, Postgresql, Go, Numpy, Javascript",5,
+JOB-0120,Full Stack Developer,Amazon,Remote,,Not Specified,Contract,,0,yesterday
+JOB-0038,Site Reliability Engineer,AIB,Remote,49528,Junior,Not Specified,"Docker, React",2,27/10/2025
+JOB-0176,Ml Engineer,Deloitte,"Galway, Ireland",,Mid,Permanent,,0,2025
+JOB-0371,Database Administrator,,Remote,,Senior,Contract,"Aws, Sql",2,yesterday
+JOB-0003,Software Engineer,TCS,,,Mid,Contract,"Mongodb, Mysql, Typescript, Spark, Postgresql, Kubernetes, Kafka, Aws",8,2025
+JOB-0029,Devops Engineer,Stripe,"London, UK",74000,Mid,Part-time,"Mysql, Etl, Kafka, Azure, Ci/Cd, Docker",6,yesterday
+JOB-0074,Devops Engineer,Microsoft,,43191,Mid,Full-time,,0,
+JOB-0089,Cloud Engineer,,"Dublin, Ireland",,Senior,Full-time,"Spark, Sql, Airflow, Postgresql, Bash",5,2 days ago
+JOB-0300,Cloud Engineer,Accenture,Remote,,Senior,Full-time,"Java, Sql, Pandas, Gcp, Kubernetes, Mysql",6,2025
+JOB-0203,Devops Engineer,Meta,,,Junior,Not Specified,,0,yesterday
+JOB-0146,Database Administrator,Infosys,"Dublin, Ireland (Hybrid)",,Not Specified,Full-time,"Mongodb, Javascript, Kafka, Go",4,
+JOB-0302,Database Administrator,Meta,"Dublin, Ireland (Hybrid)",76137,Not Specified,Permanent,,0,2 days ago
+JOB-0402,Systems Engineer,Deloitte,Remote,84000,Not Specified,Full-time,,0,yesterday
+JOB-0471,Data Engineer,JPMorgan,"Galway, Ireland",,Not Specified,Full-time,"Java, Pandas, Etl, Terraform",4,2025-11-23
+JOB-0032,Platform Engineer,Oracle,"Dublin, Ireland",,Mid,Contract,"Scala, Kubernetes",2,2025
+JOB-0335,Junior Data Engineer,Accenture,"Dublin, Ireland",,Lead,Contract,"Typescript, Pandas, Git",3,yesterday
+JOB-0214,Cloud Engineer,Infosys,Remote,,Mid,Not Specified,"Mysql, Kafka, Redis, Go, Sql, Docker",6,yesterday
+JOB-0317,Full Stack Developer,,"Galway, Ireland",,Not Specified,Contract,"Mongodb, Rust, Spark, Sql, Linux",5,04-25-2025
+JOB-0304,Full Stack Developer,Dell,"Cork, Ireland",,Mid,Full-time,"Kafka, Mongodb, Python, Typescript, Aws",5,
+JOB-0134,Data Engineer,Meta,"Dublin, Ireland",90089,Mid,Freelance,"Bash, Airflow, Kubernetes, Pandas, Typescript, Java, Git, Terraform",8,2 days ago
+JOB-0461,Devops Engineer,,"Dublin, Ireland (Hybrid)",,Junior,Full-time,"Typescript, Mongodb, Mysql, Bash",4,yesterday
+JOB-0275,Full Stack Developer,Oracle,Remote,,Not Specified,Full-time,"Postgresql, React, Terraform, Bash, Kafka",5,2 days ago
+JOB-0297,Data Engineer,JPMorgan,Remote,,Senior,Not Specified,"Mongodb, Javascript",2,01/09/2025
+JOB-0080,Data Engineer,JPMorgan,"Galway, Ireland",,Mid,Freelance,"Etl, Redis, Docker, Python, Gcp, Mysql, Go, Numpy",8,yesterday
+JOB-0308,Database Administrator,,,,Not Specified,Freelance,,0,
+JOB-0463,Cloud Engineer,Salesforce,"Dublin, Ireland",,Mid,Full-time,"Airflow, Python",2,2025
+JOB-0101,Database Administrator,Oracle,"Dublin, Ireland",,Mid,Part-time,,0,09-07-2025
+JOB-0432,Software Engineer,Meta,Remote,,Senior,Part-time,"Linux, Scala, Kafka, Azure",4,
+JOB-0228,Junior Data Engineer,AIB,,,Senior,Not Specified,,0,
+JOB-0257,Data Engineer,Dell,Remote,,Not Specified,Full-time,"Scala, Mongodb, Kafka, React, Sql, Rust",6,yesterday
+JOB-0174,Devops Engineer,PwC,"Dublin, Ireland (Hybrid)",,Not Specified,Freelance,,0,01-28-2025
+JOB-0345,Data Analyst,AIB,Remote,49820,Mid,Part-time,"Git, Jenkins, Mysql, Numpy",4,2025-06-19
+JOB-0337,Data Engineer,Infosys,"Dublin, Ireland",,Mid,Contract,"Go, Aws, Airflow, Javascript, Etl, Gcp, Jenkins",7,
+JOB-0090,Data Analyst,HubSpot,Remote,,Not Specified,Part-time,"Sql, Rust, Go, Gcp, Kafka, Terraform",6,
+JOB-0231,Full Stack Developer,SAP,"Cork, Ireland",,Junior,Full-time,"Pandas, Kubernetes, Typescript, Aws",4,2 days ago
+JOB-0141,Data Engineer,Microsoft,"Dublin, Ireland",,Not Specified,Not Specified,,0,2025
+JOB-0389,It Support Engineer,JPMorgan,"Dublin, Ireland",81602,Junior,Full-time,"Typescript, Airflow, Azure, Mysql",4,2 days ago
+JOB-0194,Database Administrator,HubSpot,"Dublin, Ireland (Hybrid)",,Not Specified,Not Specified,"Mysql, Javascript, Redis, Linux, Java, Postgresql, Bash",7,09-08-2025
+JOB-0387,Platform Engineer,Infosys,Remote,,Senior,Full-time,"Aws, Mongodb, Azure, Python",4,
+JOB-0046,Ml Engineer,Microsoft,"Galway, Ireland",53813,Lead,Not Specified,"Aws, Pandas, Azure, Ci/Cd, Mongodb, Kafka, Typescript",7,2025-03-23
+JOB-0374,Database Administrator,Citi,,53996,Mid,Freelance,,0,07-16-2025
+JOB-0185,Data Engineer,SAP,"Dublin, Ireland",34812,Mid,Permanent,"Jenkins, Bash, Mongodb, Airflow, Javascript, Rust",6,2 days ago
+JOB-0438,Junior Data Engineer,Fidelity,"Cork, Ireland",,Mid,Full-time,"React, Mongodb, Azure, Ci/Cd, Javascript, Kubernetes, Redis, Typescript",8,
+JOB-0126,It Support Engineer,Amazon,"Dublin, Ireland",,Junior,Not Specified,,0,11-06-2025
+JOB-0016,Ml Engineer,Fidelity,,,Senior,Permanent,,0,02-23-2025
+JOB-0255,Ml Engineer,HubSpot,Remote,,Not Specified,Freelance,"Jenkins, Redis, Python",3,2 days ago
+JOB-0183,Data Analyst,Google,,,Mid,Part-time,,0,2025-03-16
+JOB-0326,Data Engineer,,"Dublin, Ireland",,Not Specified,Full-time,"Gcp, Ci/Cd, Numpy, Azure",4,2025-05-16
+JOB-0431,Site Reliability Engineer,,"London, UK",,Not Specified,Full-time,"Rust, React, Gcp, Scala, Redis, Mysql, Postgresql",7,08-11-2025
+JOB-0211,Cloud Engineer,SAP,"London, UK",,Lead,Full-time,"Pandas, Jenkins, React, Java, Typescript, Ci/Cd",6,26/12/2025
+JOB-0298,It Support Engineer,TCS,Remote,,Not Specified,Freelance,"Redis, Typescript, Rust",3,
+JOB-0290,Software Engineer,,"Dublin, Ireland",,Not Specified,Part-time,"Python, Sql, Redis, Airflow, Git, Gcp, Kafka",7,2 days ago
+JOB-0139,Data Analyst,Salesforce,Remote,73370,Senior,Not Specified,"Airflow, Linux, Mongodb, Sql, React, Jenkins, Java",7,2025-02-08
+JOB-0058,It Support Engineer,KPMG,"Dublin, Ireland (Hybrid)",50000,Senior,Part-time,"Rust, Java, Aws, Typescript, Javascript, React, Pandas",7,
+JOB-0497,It Support Engineer,PwC,Remote,,Lead,Part-time,,0,yesterday
+JOB-0482,It Support Engineer,KPMG,Remote,43000,Senior,Full-time,"Sql, Aws, Pandas, Terraform, Ci/Cd, Linux, Docker, Kubernetes",8,12-26-2025
+JOB-0328,Site Reliability Engineer,AIB,Remote,,Not Specified,Full-time,"Typescript, Airflow, Numpy, Sql",4,2 days ago
+JOB-0155,Full Stack Developer,Accenture,"Galway, Ireland",,Junior,Part-time,"Docker, Java, Sql, Aws",4,2025-04-20
+JOB-0314,Backend Engineer,,"Galway, Ireland",,Lead,Full-time,"Rust, Postgresql",2,05-14-2025
+JOB-0325,Backend Engineer,Fidelity,"London, UK",,Mid,Full-time,"Terraform, Kubernetes, Mysql",3,
+JOB-0235,Junior Data Engineer,AIB,,,Mid,Full-time,"Jenkins, Docker",2,2025-02-22
+JOB-0444,Ml Engineer,AIB,"London, UK",,Mid,Not Specified,"Gcp, Git, Python, Redis, Scala, Kafka",6,
+JOB-0130,Platform Engineer,Dell,,,Mid,Not Specified,"Numpy, Java, Docker, Aws, Postgresql, Python, Jenkins, Linux",8,2 days ago
+JOB-0466,Site Reliability Engineer,KPMG,"Dublin, Ireland",,Junior,Freelance,"Docker, Pandas, Scala",3,
+JOB-0132,It Support Engineer,Meta,"London, UK",59657,Senior,Full-time,"Sql, Postgresql, Spark, Bash, Git, Mysql, Javascript, Docker",8,10/10/2025
+JOB-0280,Ml Engineer,Workday,,,Junior,Full-time,,0,2025-05-14
+JOB-0180,Data Engineer,,,,Mid,Part-time,"Kafka, Rust, Java",3,2 days ago
+JOB-0252,Software Engineer,VMware,"London, UK",,Senior,Part-time,,0,07-22-2025
+JOB-0412,Data Engineer,Amazon,Remote,,Junior,Permanent,,0,
+JOB-0322,Senior Data Engineer,Oracle,"Dublin, Ireland",,Senior,Contract,"Python, Scala, Kubernetes, Kafka, Typescript, Linux, Docker, Bash",8,
+JOB-0340,It Support Engineer,,"Dublin, Ireland",,Junior,Full-time,"Aws, Rust, Javascript, Ci/Cd",4,
+JOB-0330,Backend Engineer,Stripe,"Dublin, Ireland",,Senior,Contract,"Pandas, Spark",2,2025
+JOB-0269,Junior Data Engineer,,"Dublin, Ireland",,Senior,Not Specified,,0,
+JOB-0117,Data Engineer,Stripe,"London, UK",,Senior,Permanent,"Java, Jenkins, Spark, Bash, Airflow",5,
+JOB-0149,Senior Data Engineer,Google,Remote,,Senior,Freelance,,0,
+JOB-0291,Data Engineer,Amazon,"Cork, Ireland",,Junior,Part-time,,0,2025
+JOB-0469,Data Engineer,,"Galway, Ireland",27248,Mid,Part-time,"Spark, Typescript, Ci/Cd, Javascript",4,2025
+JOB-0024,Cloud Engineer,Oracle,"Dublin, Ireland",,Junior,Contract,"Etl, Typescript, Java",3,2 days ago
+JOB-0370,Database Administrator,,"London, UK",,Mid,Contract,"Redis, Bash, Typescript, Mysql, Jenkins, Spark, Linux",7,10-22-2025
+JOB-0242,Software Engineer,Google,"Dublin, Ireland",,Junior,Not Specified,"Mysql, Jenkins, Postgresql, Bash",4,2 days ago
+JOB-0127,Data Engineer,TCS,,68165,Not Specified,Full-time,,0,
+JOB-0136,It Support Engineer,AIB,"Galway, Ireland",55689,Not Specified,Full-time,,0,
+JOB-0001,Database Administrator,JPMorgan,"Dublin, Ireland",66161,Not Specified,Part-time,,0,19/07/2025
+JOB-0324,Database Administrator,Bank of Ireland,"Dublin, Ireland",,Mid,Full-time,"Typescript, Aws, Go",3,06/01/2025
+JOB-0411,Data Engineer,,"Galway, Ireland",70021,Junior,Full-time,"Rust, Jenkins, Kubernetes, Aws",4,01/06/2025
+JOB-0423,Senior Data Engineer,AIB,"Galway, Ireland",30841,Lead,Freelance,"Ci/Cd, Kafka",2,12-14-2025
+JOB-0005,Junior Data Engineer,VMware,,,Mid,Full-time,,0,
+JOB-0391,Junior Data Engineer,Meta,"London, UK",,Not Specified,Not Specified,"Ci/Cd, Spark, Linux, Postgresql, Bash, Rust, Gcp",7,2025-08-10
+JOB-0478,It Support Engineer,VMware,,82939,Junior,Full-time,,0,
+JOB-0410,Database Administrator,Citi,"Dublin, Ireland",,Senior,Part-time,"Gcp, Numpy, Spark, Docker",4,2025-12-02
+JOB-0383,Devops Engineer,Oracle,"Dublin, Ireland",,Lead,Part-time,"Spark, Javascript",2,13/03/2025
+JOB-0011,Software Engineer,Meta,"Galway, Ireland",57133,Senior,Full-time,,0,2 days ago
+JOB-0172,Ml Engineer,VMware,"Berlin, Germany",,Senior,Full-time,,0,2 days ago
+JOB-0220,Ml Engineer,JPMorgan,Remote,,Not Specified,Not Specified,"Azure, Rust",2,2025-11-22
+JOB-0243,Infrastructure Engineer,KPMG,"Galway, Ireland",,Senior,Contract,,0,10-19-2025
+JOB-0473,Data Analyst,Google,"London, UK",,Junior,Full-time,,0,
+JOB-0073,Junior Data Engineer,Meta,"Berlin, Germany",54102,Lead,Freelance,"Scala, Spark, Jenkins, Airflow, Aws",5,
+JOB-0398,Full Stack Developer,PwC,"Dublin, Ireland (Hybrid)",,Not Specified,Freelance,"Docker, Javascript, Spark, Git, Bash, Aws",6,2025-02-10
+JOB-0086,Data Engineer,HubSpot,,,Senior,Freelance,,0,2 days ago
+JOB-0449,Platform Engineer,Google,"Galway, Ireland",,Mid,Full-time,"Airflow, Spark, Python",3,09-17-2025
+JOB-0162,Infrastructure Engineer,TCS,"London, UK",,Senior,Contract,"Airflow, Java, Go, Redis, Git, Aws, Mongodb, Bash",8,2025-03-12
+JOB-0348,Junior Data Engineer,Meta,"London, UK",,Senior,Full-time,,0,2 days ago
+JOB-0453,Data Engineer,Amazon,"Dublin, Ireland (Hybrid)",73427,Not Specified,Contract,"Postgresql, Mongodb, Go, Gcp, Jenkins, Azure, Javascript, Airflow",8,2025
+JOB-0157,Backend Engineer,Meta,"Galway, Ireland",75000,Not Specified,Contract,"Postgresql, Javascript, Docker, Airflow, Linux, Etl, Kafka",7,yesterday
+JOB-0319,Full Stack Developer,VMware,Remote,,Senior,Part-time,"React, Azure, Pandas, Numpy, Aws, Go, Gcp, Python",8,2 days ago
+JOB-0401,Data Engineer,PwC,"Cork, Ireland",,Senior,Part-time,"Jenkins, Etl, Kubernetes",3,2 days ago
+JOB-0095,Database Administrator,Infosys,"London, UK",,Junior,Full-time,"Rust, Bash, Kafka, Git",4,2025-02-20
+JOB-0049,Data Engineer,Deloitte,Remote,,Junior,Permanent,,0,
+JOB-0002,Ml Engineer,JPMorgan,"London, UK",,Mid,Full-time,"Python, Ci/Cd, React, Docker, Kafka, Pandas, Terraform, Git",8,11/02/2025
+JOB-0472,Senior Data Engineer,,,,Not Specified,Full-time,"Linux, Kafka, Jenkins, Pandas, Docker, Git",6,2025-09-13
+JOB-0306,Data Engineer,SAP,,,Mid,Not Specified,"Go, Git, Scala, Redis",4,2 days ago
+JOB-0148,Ml Engineer,,"Cork, Ireland",72762,Not Specified,Contract,"Gcp, Ci/Cd, Postgresql",3,yesterday
+JOB-0178,Software Engineer,Workday,,,Junior,Freelance,,0,27/01/2025
+JOB-0105,Devops Engineer,Dell,"Cork, Ireland",69554,Mid,Full-time,"Aws, Azure, Mysql",3,2025-08-20
+JOB-0138,Full Stack Developer,JPMorgan,"Berlin, Germany",,Mid,Part-time,"Postgresql, Etl",2,11/03/2025
+JOB-0369,Data Engineer,Oracle,"Berlin, Germany",93332,Not Specified,Part-time,,0,
+JOB-0360,Database Administrator,Infosys,Remote,65107,Lead,Not Specified,"Mysql, Mongodb, Spark, Numpy, Kafka",5,
+JOB-0202,Data Analyst,SAP,,,Not Specified,Contract,"Python, Terraform, Jenkins",3,
+JOB-0201,Devops Engineer,PwC,,39587,Not Specified,Contract,"Etl, Postgresql, Java",3,
+JOB-0208,Senior Data Engineer,VMware,Remote,,Not Specified,Not Specified,"Pandas, Python, Jenkins, Sql, Gcp, Postgresql, Ci/Cd, Docker",8,03-02-2025
+JOB-0441,Database Administrator,JPMorgan,"Galway, Ireland",,Senior,Full-time,,0,
+JOB-0496,Data Analyst,Accenture,,52000,Not Specified,Contract,,0,
+JOB-0381,Devops Engineer,JPMorgan,,,Mid,Contract,"Linux, Aws",2,
+JOB-0052,Junior Data Engineer,Microsoft,"Dublin, Ireland",,Senior,Freelance,"Azure, Jenkins, Go, Bash, Gcp",5,yesterday
+JOB-0273,Data Analyst,,Remote,91039,Not Specified,Freelance,"Linux, Redis, Mongodb, Kafka, Ci/Cd",5,
+JOB-0034,Data Engineer,Dell,"Berlin, Germany",,Junior,Full-time,"Azure, Javascript, Kubernetes, Linux",4,12-18-2025
+JOB-0123,Ml Engineer,HubSpot,"Dublin, Ireland",,Not Specified,Full-time,"Rust, Typescript, Kafka, Pandas, Bash, Sql",6,18/10/2025
+JOB-0462,Data Engineer,Microsoft,"London, UK",58589,Not Specified,Full-time,"Java, Etl, Docker, Mongodb, Linux, Python",6,2025
+JOB-0295,Backend Engineer,Meta,"Galway, Ireland",,Mid,Full-time,"Azure, Git",2,2 days ago
+JOB-0019,It Support Engineer,Google,,90000,Lead,Not Specified,,0,2025
+JOB-0397,Backend Engineer,Citi,"Dublin, Ireland",,Lead,Part-time,"Scala, Numpy, Docker, Terraform, Kafka",5,
+JOB-0059,It Support Engineer,Dell,,65634,Junior,Not Specified,"Redis, Java, Jenkins",3,
+JOB-0445,Data Engineer,Stripe,"London, UK",,Mid,Full-time,"Git, Pandas, Scala, Kafka",4,
+JOB-0422,Cloud Engineer,,"Cork, Ireland",88000,Lead,Part-time,,0,
+JOB-0128,Senior Data Engineer,KPMG,"Galway, Ireland",,Not Specified,Permanent,,0,2025
+JOB-0331,Data Engineer,AIB,"Cork, Ireland",,Junior,Freelance,,0,13/10/2025
+JOB-0392,Backend Engineer,PwC,"Berlin, Germany",,Senior,Contract,,0,
+JOB-0349,Site Reliability Engineer,HubSpot,"Galway, Ireland",46437,Junior,Not Specified,"Spark, Kafka, Bash, Java, Numpy",5,24/03/2025
+JOB-0056,Data Analyst,JPMorgan,"Galway, Ireland",,Mid,Full-time,"Mongodb, Python, Sql, Java, Typescript",5,04/08/2025
+JOB-0222,Software Engineer,TCS,,50000,Senior,Not Specified,"Git, Jenkins, Rust, Java, Mysql, Terraform",6,
+JOB-0266,Devops Engineer,PwC,Remote,,Lead,Full-time,"Scala, Bash, Terraform, Ci/Cd",4,2025-02-22
+JOB-0253,Junior Data Engineer,Citi,"Galway, Ireland",,Junior,Full-time,,0,03-10-2025
+JOB-0312,Software Engineer,Accenture,,105939,Junior,Not Specified,"Mongodb, Kubernetes, Postgresql, Scala, Jenkins, Ci/Cd",6,03/09/2025
+JOB-0413,Data Engineer,JPMorgan,Remote,53848,Mid,Part-time,"Go, Kubernetes",2,02-23-2025
+JOB-0142,Cloud Engineer,,"Dublin, Ireland",,Mid,Full-time,"Docker, Java",2,
+JOB-0305,Devops Engineer,Salesforce,Remote,69000,Lead,Not Specified,"Airflow, Spark",2,12/06/2025
+JOB-0091,Cloud Engineer,Citi,"London, UK",,Junior,Full-time,,0,2025-02-14
+JOB-0207,Data Engineer,Bank of Ireland,"London, UK",,Senior,Contract,"Numpy, Docker, Jenkins",3,03-06-2025
+JOB-0436,Database Administrator,Infosys,"Dublin, Ireland",,Not Specified,Not Specified,,0,12/01/2025
+JOB-0151,It Support Engineer,HubSpot,Remote,88121,Lead,Full-time,"Numpy, Sql",2,2025-10-14
+JOB-0100,Full Stack Developer,KPMG,"Dublin, Ireland (Hybrid)",,Junior,Not Specified,"Mongodb, Rust",2,03-16-2025
+JOB-0433,Database Administrator,,"Berlin, Germany",,Junior,Part-time,"Airflow, Linux, Javascript, Redis, Docker, Python, Bash",7,yesterday
+JOB-0498,Site Reliability Engineer,Salesforce,Remote,95359,Junior,Not Specified,"Docker, Mysql, Terraform, Postgresql, Airflow",5,2025-10-01
+JOB-0196,Senior Data Engineer,,,74987,Not Specified,Full-time,"Javascript, Ci/Cd, Spark, Scala, React, Rust",6,10/11/2025
+JOB-0333,Software Engineer,TCS,,,Not Specified,Full-time,"Kubernetes, Spark, React, Aws, Mongodb",5,
+JOB-0026,Platform Engineer,Google,Remote,,Junior,Full-time,,0,2025
+JOB-0051,Devops Engineer,Citi,"Dublin, Ireland",,Mid,Freelance,"Etl, Redis, Git, Postgresql, Airflow, Mongodb, Spark",7,
+JOB-0190,Systems Engineer,Deloitte,"Dublin, Ireland (Hybrid)",,Mid,Full-time,"Docker, Scala, Bash, Kafka, Mongodb, Terraform, Javascript",7,yesterday
+JOB-0140,Software Engineer,Stripe,,96612,Not Specified,Not Specified,"Aws, Python, Git, Kubernetes, Sql, React",6,yesterday
+JOB-0226,Infrastructure Engineer,,Remote,85288,Junior,Not Specified,"Docker, Terraform",2,yesterday
+JOB-0028,Devops Engineer,Salesforce,,,Mid,Full-time,,0,2025-01-25
+JOB-0171,Devops Engineer,Meta,Remote,,Mid,Contract,"Azure, Java, Aws, Terraform, Git, Mongodb, Javascript",7,05-07-2025
+JOB-0261,Data Engineer,JPMorgan,"Dublin, Ireland",42245,Lead,Not Specified,,0,2 days ago
+JOB-0405,Data Engineer,Salesforce,,54000,Mid,Permanent,,0,2 days ago
+JOB-0258,Backend Engineer,AIB,,,Senior,Permanent,,0,27/11/2025
+JOB-0204,Data Engineer,Bank of Ireland,"London, UK",,Senior,Not Specified,,0,yesterday
+JOB-0078,Ml Engineer,,,,Junior,Full-time,"Git, Azure, React, Spark",4,2 days ago
+JOB-0474,Site Reliability Engineer,Google,Remote,69969,Mid,Contract,,0,
+JOB-0221,Infrastructure Engineer,PwC,"Dublin, Ireland",62557,Junior,Full-time,"Postgresql, Gcp, Sql, Scala, React, Pandas, Java, Bash",8,13/11/2025
+JOB-0182,Data Engineer,HubSpot,"Dublin, Ireland",,Senior,Not Specified,,0,03-04-2025
+JOB-0044,Junior Data Engineer,SAP,"Dublin, Ireland",,Senior,Not Specified,"Postgresql, Airflow, Jenkins",3,yesterday
+JOB-0282,Backend Engineer,Meta,"Berlin, Germany",,Mid,Part-time,,0,2 days ago
+JOB-0061,It Support Engineer,SAP,,,Senior,Contract,"Go, Sql",2,
+JOB-0494,Data Engineer,Fidelity,"Berlin, Germany",,Senior,Part-time,"Mongodb, Linux, Numpy, Etl, React, Java",6,
+JOB-0489,Cloud Engineer,,,,Senior,Contract,,0,yesterday
+JOB-0442,Cloud Engineer,Salesforce,"London, UK",,Junior,Full-time,,0,
+JOB-0272,Site Reliability Engineer,PwC,"Cork, Ireland",65812,Junior,Full-time,"Go, Redis, Sql, Azure, Airflow",5,2 days ago
+JOB-0244,Site Reliability Engineer,Meta,Remote,62749,Mid,Full-time,"Airflow, Postgresql, Kubernetes, Etl, Aws, Javascript",6,16/12/2025
+JOB-0015,Cloud Engineer,VMware,,,Junior,Full-time,,0,
+JOB-0137,Devops Engineer,Citi,"Galway, Ireland",36000,Lead,Permanent,,0,01-20-2025
+JOB-0096,Data Engineer,Citi,"London, UK",119025,Not Specified,Part-time,,0,2025-04-25
+JOB-0009,Platform Engineer,Accenture,,51228,Senior,Part-time,"Jenkins, Python, Aws, Kafka, Mongodb, Sql",6,2025
+JOB-0057,It Support Engineer,PwC,,,Senior,Permanent,,0,2 days ago
+JOB-0382,It Support Engineer,Dell,,71430,Mid,Permanent,,0,2025-03-21
+JOB-0486,Data Engineer,Bank of Ireland,"Berlin, Germany",,Senior,Permanent,"Mysql, Rust",2,2 days ago
+JOB-0237,Database Administrator,Amazon,"Galway, Ireland",76000,Lead,Full-time,"Scala, Gcp",2,2025-05-27
+JOB-0076,Ml Engineer,Dell,Remote,,Senior,Full-time,"Spark, Git, Etl, Python, React",5,
+JOB-0053,Data Engineer,,,,Mid,Full-time,,0,
+JOB-0483,Data Engineer,Oracle,"Galway, Ireland",,Mid,Freelance,"Javascript, Etl, Go, Rust, Typescript, React, Terraform",7,yesterday
+JOB-0158,Cloud Engineer,Accenture,"London, UK",70000,Junior,Full-time,"Etl, Aws, Jenkins, Spark",4,
+JOB-0352,Site Reliability Engineer,Bank of Ireland,"Galway, Ireland",59895,Junior,Full-time,"Typescript, Airflow, Aws, Python, Kubernetes, Docker, Go, Etl",8,2 days ago
+JOB-0085,Backend Engineer,Meta,"Dublin, Ireland",,Mid,Full-time,,0,
+JOB-0217,Data Analyst,Workday,,,Junior,Not Specified,,0,06/07/2025
+JOB-0143,Database Administrator,Google,"Dublin, Ireland",,Senior,Full-time,,0,06/05/2025
+JOB-0036,Cloud Engineer,Bank of Ireland,"Dublin, Ireland",,Senior,Part-time,,0,2025
+JOB-0467,Junior Data Engineer,HubSpot,Remote,,Junior,Contract,"Gcp, Terraform, Rust, Airflow, Numpy, Etl, Java",7,14/12/2025
+JOB-0205,Database Administrator,,Remote,,Senior,Freelance,"Typescript, Gcp, Etl, Rust, Java, Spark, Sql",7,2025-08-08
+JOB-0400,Ml Engineer,,Remote,,Senior,Not Specified,"Javascript, Ci/Cd, Redis, Git, Kubernetes, Kafka, Mysql",7,
+JOB-0104,Devops Engineer,Oracle,Remote,71000,Senior,Contract,"Airflow, Scala, Gcp, Etl, Jenkins, Python",6,yesterday
+JOB-0263,Junior Data Engineer,Workday,"London, UK",102983,Junior,Not Specified,"Ci/Cd, Linux",2,27/02/2025
+JOB-0318,Junior Data Engineer,VMware,"London, UK",69462,Senior,Part-time,,0,07-11-2025
+JOB-0232,Data Engineer,PwC,"Dublin, Ireland",41000,Senior,Full-time,"Numpy, Etl, Python, Jenkins, Aws, Gcp, Typescript",7,2 days ago
+JOB-0468,Devops Engineer,AIB,"Dublin, Ireland",68000,Lead,Contract,"Mongodb, Jenkins, Airflow, Pandas, Bash, Java, React, Etl",8,yesterday
+JOB-0187,Software Engineer,Accenture,,,Senior,Part-time,"Spark, Kafka, Azure, Sql, Docker, Java",6,2025
+JOB-0113,Data Engineer,VMware,"Galway, Ireland",,Lead,Part-time,,0,11-14-2025
+JOB-0067,Data Analyst,AIB,"Dublin, Ireland",,Not Specified,Full-time,"Go, Sql, Numpy, React, Postgresql, Mongodb, Kubernetes",7,17/03/2025
+JOB-0055,Ml Engineer,VMware,"Dublin, Ireland",,Not Specified,Not Specified,"Python, Docker, Git, Sql",4,2 days ago
+JOB-0259,Infrastructure Engineer,Citi,Remote,,Mid,Not Specified,,0,26/03/2025
+JOB-0435,Software Engineer,Infosys,"Dublin, Ireland",38362,Mid,Part-time,"Spark, Java",2,yesterday
+JOB-0079,Data Engineer,,Remote,,Not Specified,Permanent,"Azure, Aws, Terraform, Redis",4,2 days ago
+JOB-0336,Platform Engineer,,"Dublin, Ireland",85275,Junior,Full-time,"Git, Gcp, Python",3,2025-05-22
+JOB-0233,Devops Engineer,SAP,Remote,,Mid,Contract,"Airflow, Javascript, Python, Azure, Ci/Cd, Kafka, Jenkins, Rust",8,02/04/2025
+JOB-0363,Full Stack Developer,JPMorgan,"Dublin, Ireland",,Senior,Not Specified,,0,02/08/2025
+JOB-0160,Data Analyst,Accenture,"Cork, Ireland",51000,Senior,Part-time,,0,10-14-2025
+JOB-0460,Devops Engineer,,"London, UK",,Senior,Contract,,0,2025-03-14
+JOB-0161,Full Stack Developer,SAP,"Cork, Ireland",64768,Mid,Full-time,,0,02/06/2025
+JOB-0440,Full Stack Developer,Microsoft,"Dublin, Ireland",115168,Not Specified,Contract,"Gcp, Linux, Typescript",3,
+JOB-0264,Full Stack Developer,Fidelity,,,Not Specified,Part-time,"Scala, Aws, Java, Etl, Kafka, Mysql, React",7,
+JOB-0390,Platform Engineer,,,89516,Senior,Part-time,,0,
+JOB-0303,Backend Engineer,,"Dublin, Ireland",,Not Specified,Freelance,"Python, Kafka, Etl, Pandas, Kubernetes, Gcp, Spark, Linux",8,11-10-2025
+JOB-0417,Devops Engineer,Infosys,"Dublin, Ireland (Hybrid)",36829,Senior,Not Specified,"Postgresql, Bash, Javascript",3,
+JOB-0107,Junior Data Engineer,,,,Lead,Full-time,"Terraform, Kafka, Pandas, Typescript, Gcp, Linux",6,2025
+JOB-0175,Data Engineer,Salesforce,"Dublin, Ireland (Hybrid)",,Mid,Permanent,"Terraform, Mongodb, Sql",3,10-25-2025
+JOB-0054,Junior Data Engineer,Salesforce,,33000,Junior,Full-time,"Postgresql, Kubernetes, Aws, Javascript, Ci/Cd, Bash, Go, Rust",8,
+JOB-0250,Software Engineer,Infosys,Remote,62226,Not Specified,Part-time,"Mongodb, Python, Aws, Airflow, Redis",5,
+JOB-0097,Junior Data Engineer,VMware,,29888,Junior,Part-time,"Airflow, React, Java, Docker, Etl, Linux, Sql, Python",8,2 days ago
+JOB-0198,Data Engineer,KPMG,,,Mid,Contract,,0,2025-01-21
+JOB-0420,Platform Engineer,Citi,Remote,,Junior,Full-time,"Rust, Azure",2,
+JOB-0240,Devops Engineer,Accenture,,,Mid,Part-time,"Kafka, Sql, Javascript, Mysql, Git, Scala, Go, Aws",8,2025
+JOB-0111,Ml Engineer,HubSpot,"Galway, Ireland",,Junior,Not Specified,"Javascript, Jenkins, Java, Bash, Mongodb, Redis",6,2 days ago
+JOB-0344,It Support Engineer,Accenture,"Cork, Ireland",44562,Senior,Contract,"Scala, Pandas, Ci/Cd, Numpy, Redis, Java, Azure",7,2 days ago
+JOB-0007,Data Engineer,KPMG,"Berlin, Germany",64522,Lead,Full-time,"Mongodb, Linux, Javascript, Rust, Scala, Mysql, Kubernetes, Gcp",8,
+JOB-0109,Devops Engineer,Dell,Remote,,Mid,Contract,"Kubernetes, Rust",2,2025
+JOB-0031,Platform Engineer,PwC,"Galway, Ireland",,Not Specified,Part-time,"Javascript, Etl, Postgresql, Git, Terraform",5,yesterday
+JOB-0254,Devops Engineer,Workday,"Galway, Ireland",,Senior,Full-time,"Ci/Cd, Terraform",2,
+JOB-0040,Systems Engineer,Meta,,,Mid,Contract,"Pandas, Terraform, Redis, Azure",4,yesterday
+JOB-0106,Backend Engineer,,"Galway, Ireland",,Mid,Full-time,"Ci/Cd, Redis, Javascript, Terraform, Jenkins, Linux",6,2025-11-17
+JOB-0439,Data Analyst,VMware,Remote,,Not Specified,Not Specified,"Docker, Pandas, Redis, Python, Jenkins, Linux",6,09-15-2025
+JOB-0377,It Support Engineer,Bank of Ireland,"Galway, Ireland",,Junior,Not Specified,"Airflow, Git, Aws, Azure",4,10/03/2025
+JOB-0332,Full Stack Developer,,"Dublin, Ireland",,Junior,Not Specified,"Java, Mongodb, Typescript",3,yesterday
+JOB-0338,Data Engineer,PwC,,,Senior,Freelance,"Gcp, Azure, Docker",3,2 days ago
+JOB-0125,Infrastructure Engineer,PwC,"Dublin, Ireland",,Junior,Full-time,"Spark, Linux, Terraform",3,2 days ago
+JOB-0447,Data Engineer,PwC,"London, UK",73000,Senior,Not Specified,"Rust, Go, Ci/Cd, Scala, Jenkins, Docker, Aws",7,yesterday
+JOB-0428,Senior Data Engineer,,"Dublin, Ireland",,Mid,Permanent,,0,2025
+JOB-0286,Data Engineer,Bank of Ireland,"Dublin, Ireland",,Senior,Full-time,,0,09-11-2025
+JOB-0181,Data Engineer,Google,"Galway, Ireland",58540,Mid,Full-time,"Javascript, Docker",2,26/11/2025
+JOB-0043,Infrastructure Engineer,Dell,,,Junior,Contract,"React, Typescript, Pandas, Terraform, Rust, Scala, Git, Python",8,2 days ago
+JOB-0365,Junior Data Engineer,,"Dublin, Ireland (Hybrid)",,Senior,Permanent,"Docker, Aws, Git, Spark, Kafka, Ci/Cd",6,yesterday
+JOB-0393,Data Engineer,KPMG,"Dublin, Ireland",,Mid,Contract,"Numpy, Mysql, Kubernetes",3,2025
+JOB-0116,Ml Engineer,Meta,"Dublin, Ireland",,Senior,Part-time,"Postgresql, Javascript, Typescript",3,11/07/2025
+JOB-0248,Data Engineer,Infosys,"Galway, Ireland",,Senior,Contract,"Numpy, Sql, Rust",3,12/03/2025
+JOB-0375,Data Engineer,Fidelity,"Berlin, Germany",,Not Specified,Full-time,,0,15/12/2025
+JOB-0396,Data Engineer,,,74054,Mid,Full-time,"Mysql, Postgresql, Kubernetes, Bash, Linux, Gcp, Terraform, Jenkins",8,2 days ago
+JOB-0165,Systems Engineer,KPMG,"Dublin, Ireland (Hybrid)",97358,Junior,Permanent,"Kafka, Mysql, Postgresql, Scala, React, Pandas, Azure, Ci/Cd",8,19/10/2025
+JOB-0144,Data Engineer,HubSpot,"London, UK",,Mid,Not Specified,"Rust, Kafka, Etl, Mongodb, Pandas, Jenkins, Terraform, Ci/Cd",8,09/02/2025
+JOB-0500,Systems Engineer,Google,"Dublin, Ireland",44000,Junior,Full-time,,0,
+JOB-0251,Senior Data Engineer,Google,Remote,85000,Mid,Contract,,0,2 days ago
+JOB-0339,Software Engineer,Deloitte,Remote,,Lead,Full-time,,0,2025
+JOB-0245,Devops Engineer,Salesforce,"Dublin, Ireland",75603,Mid,Part-time,"Ci/Cd, Jenkins, Etl, Mongodb, Mysql, Python, Javascript, Typescript",8,06-18-2025
+JOB-0296,Cloud Engineer,VMware,,45677,Senior,Part-time,,0,08-23-2025
+JOB-0124,Backend Engineer,AIB,,73463,Senior,Contract,,0,2 days ago
+JOB-0271,Cloud Engineer,Salesforce,"Berlin, Germany",,Not Specified,Part-time,"Docker, Git, Azure",3,
+JOB-0268,Cloud Engineer,Microsoft,"Dublin, Ireland",,Not Specified,Part-time,,0,
+JOB-0063,Backend Engineer,Amazon,"Dublin, Ireland (Hybrid)",,Junior,Full-time,,0,
+JOB-0343,Senior Data Engineer,Meta,Remote,,Not Specified,Permanent,"Javascript, Go, Postgresql, Jenkins, Python",5,2 days ago
+JOB-0458,Data Engineer,HubSpot,"Cork, Ireland",,Not Specified,Part-time,,0,
+JOB-0424,Senior Data Engineer,Stripe,"Berlin, Germany",65308,Mid,Permanent,"Etl, Docker",2,14/08/2025
+JOB-0152,Database Administrator,Infosys,,,Mid,Full-time,"Java, Pandas, Go, Bash",4,2025
+JOB-0327,Cloud Engineer,Dell,Remote,,Mid,Not Specified,,0,2 days ago
